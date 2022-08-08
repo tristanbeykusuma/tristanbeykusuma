@@ -1,5 +1,8 @@
 # Halo semua! 
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <a href="https://twitter.com/TristanBeyK" ><img src="https://img.shields.io/twitter/follow/TristanBeyK.svg?style=social" /> </a>
+<br>
+
 Perkenalkan nama saya **Tristan Bey Kusuma**.
 
 Saya seorang **mahasiswa informatika** di Universitas Udayana.
@@ -8,7 +11,7 @@ Saya juga memiliki sertifikasi kompetensi [Kelas Pengenalan Logika Pemrograman](
 
 Saya juga telah membangun beberapa project seperti [To-Do-List App](https://imk-todolist.herokuapp.com/) dan [Medical Dental Record System](https://digital-dental-record.herokuapp.com/).
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/tristan-kusuma-abb21917a) ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/tristan-kusuma-abb21917a) ku ya. :star:
 
 
 <p align="left">
