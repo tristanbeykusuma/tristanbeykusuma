@@ -9,7 +9,7 @@ Saya seorang **mahasiswa informatika** di Universitas Udayana.
 
 Saya juga memiliki sertifikasi kompetensi [Kelas Pengenalan Logika Pemrograman](https://www.dicoding.com/certificates/1RXYMDR2QXVM), [Kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/NVP7K3JNVZR0), dan [Kelas Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/4EXG5OJWGXRL) dari Dicoding.
 
-Saya juga telah membangun beberapa project seperti [To-Do-List App](https://imk-todolist.herokuapp.com/) dan [Medical Dental Record System](https://digital-dental-record.herokuapp.com/).
+Saya juga telah membangun beberapa project seperti [To-Do-List App](https://imk-todolist.herokuapp.com/), [Medical Dental Record System](https://digital-dental-record.herokuapp.com/), dan [Aplikasi Ruangan Diskusi Virtual](https://shiny-taiyaki-bddd2f.netlify.app/).
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/tristan-kusuma-abb21917a) ku ya. :star:
 
